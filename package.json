@@ -1,0 +1,14 @@
+{
+  "name": "bloombill",
+  "description": "A small API for the Bloomberg Billionaire list",
+  "author": "Alex Nichol <unixpickle@gmail.com>",
+  "repository": "https://github.com/unixpickle/bloombill.git",
+  "version": "0.0.1",
+  "licenses": [{
+    "type": "GPL",
+    "url": "http://www.gnu.org/licenses/gpl.html"
+  }],
+  "engines": {
+    "node": "0.10.x"
+  }
+}
